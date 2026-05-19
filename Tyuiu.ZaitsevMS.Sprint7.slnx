@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="Tyuiu.ZaitsevMS.Sprint7.Project.V10.Lib/Tyuiu.ZaitsevMS.Sprint7.Project.V10.Lib.csproj" Id="46b0d9db-a08d-4486-9a07-0d0c753acb34" />
+  <Project Path="Tyuiu.ZaitsevMS.Sprint7.Project.V10.Test/Tyuiu.ZaitsevMS.Sprint7.Project.V10.Test.csproj" Id="f5647766-4f4e-43b0-adb2-15656006d770" />
+  <Project Path="Tyuiu.ZaitsevMS.Sprint7.Project.V10/Tyuiu.ZaitsevMS.Sprint7.Project.V10.csproj" Id="4224dde6-3786-4f99-81ef-e38cdb512225" />
+</Solution>
